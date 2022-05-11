@@ -9,187 +9,112 @@ Jobs
 #. My first job was working in an orange juice factory, but I got canned ... couldn't concentrate.
 #. I worked in the woods as a lumberjack, but I just couldn't hack it, so they gave me the ax.
 #. After that I tried to be a tailor, but I just wasn't suited for it. Mainly because it was a so-so job and seamed more exciting than it was
+#. Next, I tried working in a muffler factory but that was exhausting.
+#. I wanted to be a barber, but I just couldn't cut it so we parted.
+#. Then I tried to be a chef -- figured it would add a little spice to my life but I just wasn't at home on the range
+#. Finally, I attempted to be a deli worker, but anyway I sliced it, I couldn't cut the mustard.
+#. My best job was being a musician, but eventually I found I wasn't noteworthy.
+#. Mining was interesting, but then they gave me the shaft.
+#. Next was a job in a shoe factory; I tried but I just didn't fit in.
+#. I became a professional fisherman, but my net income was reel low
+#. Thought about becoming a witch, so I tried that for a spell.
+#. I managed to get a good job working for a pool maintenance company, but the work was just too draining.
+#. I tried being a banker. I lost interest.
+#. I got a job at a zoo feeding giraffes but I was fired because I wasn't up to it.
+#. So then I got a job in a health club, but they said I wasn't fit for the job.
+#. Next, I found being an electrician interesting, but there were too many undercurrents.
+#. After many years of trying to find steady work I finally got a job as a history teacher until I realized there was no future in it.
+#. My last job was working at Starbucks, but I had to quit because it was always the same old grind and the job had no perks.
+#. I tried working at a supermarket, but I got sacked.
+#. I wanted to be a baker but I couldn't raise the dough. Now I'm toast.
+#. I was going to be a watchmaker but I never found the time.
+#. Then I answered an ad for a professional craps player, but no dice
+#. Then I worked in an optometrist's office. I fell into the lens grinder and made a spectacle of myself.
+#. I worked at the airport.
+   | I thought my career would take off.
+   | There was nowhere to go but up.
+   | (Sorry, that's just plane wrong.
+   | I should be grounded.)
+#. He used to work in a blanket factory, but it folded.
+#. Sea captains don't like crew cuts.
+#. The butcher backed up into the meat grinder and got a little behind in his work.
+#. If you don't pay your exorcist you can get repossessed.
+#. Acupuncture: a jab well done.
+#. New study shows alcoholic law students have trouble passing the bar.
+#. I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+#. Randy was discharged from the Marines because he was rotten to the corps.
+#. We'll never run out of math teachers because they always multiply.
+#. I fired my masseuse today. She just rubbed me the wrong way.
+#. Today I saw a cop pull over a U-Haul. I was impressed. That guy could really 'bust a move.'
+#. What do TV anchors wear? News briefs!
+#. Bakers trade bread recipes on a knead to know basis.
+#. A dentist and a manicurist fought tooth and nail.
+#. When an actress saw her first strands of gray hair, she thought she'd dye.
+#. The short fortune teller who escaped from prison was a small medium at large.
+#. A backward poet writes inverse.
+#. I've got a friend that is a professional skydiver. He goes around to the air-shows all over the U.S. He tours in Fall. That joke wasn't funny? Chute.
+#. Once I worked with security guys named Lancelot, Galahad and Gawain. They worked the knight shift.
+#. The guy who fell into an upholstery machine was fully recovered.
+#. Santa's helpers are subordinate clauses.
+#. Why did the scarecrow win an award? He was outstanding in his field.
+   | This job ain't for everyone. But hay, it's in his jeans.
+#. "Fire at will," said the commander.
+   | "Sorry Will, everyone was gunning for you."
+#. Sea captains have a lot of latitude.
+#. During a snowstorm my car ran off the road. A highway patrolman stopped by to help get my car back on the road. He was a real trooper.
+#. The pilot hit turbulence. Her passengers went flying.
+#. A good electrician knows how not to conduct himself.
+#. Two ambulance drivers are a paramedics.
+#. Did you hear about the kidnapping at school?....... don't worry he woke up.
+#. So I was walking by the prison the other day when I saw this midget escaping. As he was lowering himself from the wall he scowled at me. I thought to myself "Wow, that's a little con descending."
+#. What did the cowboy say at the German auto show?
+   | "Audi."
 
-
-
-5.
-Next, I tried working in a muffler factory but that was exhausting.
-6.
-I wanted to be a barber, but I just couldn't cut it so we parted.
-7.
-Then I tried to be a chef -- figured it would add a little spice to my life but I just wasn't at home on the range
-8.
-Finally, I attempted to be a deli worker, but anyway I sliced it, I couldn't cut the mustard.
-9.
-My best job was being a musician, but eventually I found I wasn't noteworthy.
-10.
-Mining was interesting, but then they gave me the shaft.
-11.
-Next was a job in a shoe factory; I tried but I just didn't fit in.
-12.
-I became a professional fisherman, but my net income was reel low
-13.
-Thought about becoming a witch, so I tried that for a spell.
-14.
-I managed to get a good job working for a pool maintenance company, but the work was just too draining.
-15.
-I tried being a banker. I lost interest.
-16.
-I got a job at a zoo feeding giraffes but I was fired because I wasn't up to it.
-17.
-So then I got a job in a health club, but they said I wasn't fit for the job.
-18.
-Next, I found being an electrician interesting, but there were too many undercurrents.
-19.
-After many years of trying to find steady work I finally got a job as a history teacher until I realized there was no future in it.
-20.
-My last job was working at Starbucks, but I had to quit because it was always the same old grind and the job had no perks.
-21.
-I tried working at a supermarket, but I got sacked.
-22.
-I wanted to be a baker but I couldn't raise the dough. Now I'm toast.
-23.
-I was going to be a watchmaker but I never found the time.
-24.
-Then I answered an ad for a professional craps player, but no dice
-25.
-Then I worked in an optometrist's office. I fell into the lens grinder and made a spectacle of myself.
-26.
-I worked at the airport.
-I thought my career would take off.
-There was nowhere to go but up.
-(Sorry, that's just plane wrong.
-I should be grounded.)
-27.
-He used to work in a blanket factory, but it folded.
-28.
-Sea captains don't like crew cuts.
-29.
-The butcher backed up into the meat grinder and got a little behind in his work.
-30.
-If you don't pay your exorcist you can get repossessed.
-31.
-Acupuncture: a jab well done.
-32.
-New study shows alcoholic law students have trouble passing the bar.
-33.
-I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-34.
-Randy was discharged from the Marines because he was rotten to the corps.
-35.
-We'll never run out of math teachers because they always multiply.
-36.
-I fired my masseuse today. She just rubbed me the wrong way.
-37.
-Today I saw a cop pull over a U-Haul. I was impressed. That guy could really 'bust a move.'
-38.
-What do TV anchors wear? News briefs!
-39.
-Bakers trade bread recipes on a knead to know basis.
-40.
-A dentist and a manicurist fought tooth and nail.
-41.
-When an actress saw her first strands of gray hair, she thought she'd dye.
-42.
-The short fortune teller who escaped from prison was a small medium at large.
-43.
-A backward poet writes inverse.
-44.
-I've got a friend that is a professional skydiver. He goes around to the air-shows all over the U.S. He tours in Fall. That joke wasn't funny? Chute.
-45.
-Once I worked with security guys named Lancelot, Galahad and Gawain. They worked the knight shift.
-46.
-The guy who fell into an upholstery machine was fully recovered.
-47.
-Santa's helpers are subordinate clauses.
-48.
-Why did the scarecrow win an award? He was outstanding in his field.
-This job ain't for everyone. But hay, it's in his jeans.
-49.
-"Fire at will," said the commander.
-"Sorry Will, everyone was gunning for you."
-50.
-Sea captains have a lot of latitude.
-51.
-During a snowstorm my car ran off the road. A highway patrolman stopped by to help get my car back on the road. He was a real trooper.
-52.
-The pilot hit turbulence. Her passengers went flying.
-53.
-A good electrician knows how not to conduct himself.
-54.
-Two ambulance drivers are a paramedics.
-55.
-Did you hear about the kidnapping at school?....... don't worry he woke up.
-56.
-So I was walking by the prison the other day when I saw this midget escaping. As he was lowering himself from the wall he scowled at me. I thought to myself "Wow, that's a little con descending."
-57.
-What did the cowboy say at the German auto show?
-"Audi."
 Animals
-58.
-Bipolar Bear
+-------
 
-59.
-I was going to tell some jokes based on cat puns, but I couldn't figure them meowt.
-Sorry, just kitten you.
-I thought that was the purr-fect joke?
-Ok, we'll just paws here.
-60.
-Why don't cats play poker in the jungle?
-Because they're cheetahs.
-61.
-Did you know that koala-bears aren't actually part of the bear family?
-| They don't have all of the koalifications.
-62.
-Eagles may soar, but weasels don't get sucked into jet engines.
-63.
-Two fish are in a tank.
-One asks: How do you drive this thing?
-64.
-A polar bear walks into a bar.
-He sits down says "I'll have a Bacardi and................................................ cola."
-Bartender asks, "What's with the huge pause?"
-Polar Bear says "These? Born with'em...."
-65.
-A termite walks into a bar and asks, "Is the bar tender here?"
-66.
-Two whales walk into a bar.
-They approach the bartender and the first says "WAAAAAAAAAAAOOOOOOOOHHHHOOAAAAAUAUUUAUAAAAUAAUUUUAAAAAAOOOOOOOOOOOOOOOYYYAAAAAAAAOOOOOOOOOOOOEEEEEEEEEEEAAAAAAAAAAAOOOOOOOOOOUUUUUUUUUUUUUUU."
-The second whale turns to him and says, "Frank, you're drunk."
-67.
-Why do chicken coops have two doors?
-Because if it had four it would be a chicken sedan
-68.
-SZSZ
-69.
-What did the buffalo say to his son when he dropped him off at school?
-Bison.
-70.
+#. Bipolar Bear
 
-I'm on this table and I don't know how I goat here.
-Hey kid, get down from that table.
-These puns are just baaaaaaaaad.
-71.
-Why can't you hear a pterodactyl going to the bathroom?
-Because the P is silent.
-72.
-What do you call a camel with no humps?
-Humphrey.
-73.
-Frog parking only.
-All others will be toad.
-74.
-Cows are worth a lot of money.
-If you milk them for all their worth.
-75.
-Why do cows wear bells?
-Because their horns don't work.
-76.
-How did the farmer keep track of how many cows he had?
-With a cow-culator.
-77.
-What do you call a dinosaur with an extensive vocabulary?
-A thesaurus.
+#. I was going to tell some jokes based on cat puns, but I couldn't figure them meowt.
+   | Sorry, just kitten you.
+   | I thought that was the purr-fect joke?
+   | Ok, we'll just paws here.
+#. Why don't cats play poker in the jungle?
+   | Because they're cheetahs.
+#. Did you know that koala-bears aren't actually part of the bear family?
+   | They don't have all of the koalifications.
+#. Two fish are in a tank.
+   | One asks: How do you drive this thing?
+#. A polar bear walks into a bar.
+   | He sits down says "I'll have a Bacardi and................................................ cola."
+   | Bartender asks, "What's with the huge pause?"
+   | Polar Bear says "These? Born with'em...."
+#. A termite walks into a bar and asks, "Is the bar tender here?"
+#. Two whales walk into a bar.
+   | They approach the bartender and the first says "WAAAAAAAAAAAOOOOOOOOHHHHOOAAAAAUAUUUAUAAAAUAAUUUUAAAAAAOOOOOOOOOOOOOOOYYYAAAAAAAAOOOOOOOOOOOOEEEEEEEEEEEAAAAAAAAAAAOOOOOOOOOOUUUUUUUUUUUUUUU."
+   | The second whale turns to him and says, "Frank, you're drunk."
+#. Why do chicken coops have two doors?
+   | Because if it had four it would be a chicken sedan
+#. What did the buffalo say to his son when he dropped him off at school?
+   | Bison.
+#. I'm on this table and I don't know how I goat here.
+   | Hey kid, get down from that table.
+   | These puns are just baaaaaaaaad.
+#. Why can't you hear a pterodactyl going to the bathroom?
+   | Because the P is silent.
+#. What do you call a camel with no humps?
+   | Humphrey.
+#. Frog parking only.
+   | All others will be toad.
+#. Cows are worth a lot of money.
+   | If you milk them for all their worth.
+#. Why do cows wear bells?
+   | Because their horns don't work.
+#. How did the farmer keep track of how many cows he had?
+   | With a cow-culator.
+#. What do you call a dinosaur with an extensive vocabulary?
+   | A thesaurus.
+
 78.
 What do you call a cow with no legs?
 Ground beef.
