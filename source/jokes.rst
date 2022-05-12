@@ -30,7 +30,7 @@ Jobs
 #. I was going to be a watchmaker but I never found the time.
 #. Then I answered an ad for a professional craps player, but no dice
 #. Then I worked in an optometrist's office. I fell into the lens grinder and made a spectacle of myself.
-#. I worked at the airport.
+#. | I worked at the airport.
    | I thought my career would take off.
    | There was nowhere to go but up.
    | (Sorry, that's just plane wrong.
@@ -56,9 +56,9 @@ Jobs
 #. Once I worked with security guys named Lancelot, Galahad and Gawain. They worked the knight shift.
 #. The guy who fell into an upholstery machine was fully recovered.
 #. Santa's helpers are subordinate clauses.
-#. Why did the scarecrow win an award? He was outstanding in his field.
+#. | Why did the scarecrow win an award? He was outstanding in his field.
    | This job ain't for everyone. But hay, it's in his jeans.
-#. "Fire at will," said the commander.
+#. | "Fire at will," said the commander.
    | "Sorry Will, everyone was gunning for you."
 #. Sea captains have a lot of latitude.
 #. During a snowstorm my car ran off the road. A highway patrolman stopped by to help get my car back on the road. He was a real trooper.
@@ -67,7 +67,7 @@ Jobs
 #. Two ambulance drivers are a paramedics.
 #. Did you hear about the kidnapping at school?....... don't worry he woke up.
 #. So I was walking by the prison the other day when I saw this midget escaping. As he was lowering himself from the wall he scowled at me. I thought to myself "Wow, that's a little con descending."
-#. What did the cowboy say at the German auto show?
+#. | What did the cowboy say at the German auto show?
    | "Audi."
 
 Animals
@@ -75,473 +75,303 @@ Animals
 
 #. Bipolar Bear
 
-#. I was going to tell some jokes based on cat puns, but I couldn't figure them meowt.
+#. | I was going to tell some jokes based on cat puns, but I couldn't figure them meowt.
    | Sorry, just kitten you.
    | I thought that was the purr-fect joke?
    | Ok, we'll just paws here.
-#. Why don't cats play poker in the jungle?
+#. | Why don't cats play poker in the jungle?
    | Because they're cheetahs.
-#. Did you know that koala-bears aren't actually part of the bear family?
+#. | Did you know that koala-bears aren't actually part of the bear family?
    | They don't have all of the koalifications.
-#. Two fish are in a tank.
+#. | Two fish are in a tank.
    | One asks: How do you drive this thing?
-#. A polar bear walks into a bar.
+#. | A polar bear walks into a bar.
    | He sits down says "I'll have a Bacardi and................................................ cola."
    | Bartender asks, "What's with the huge pause?"
    | Polar Bear says "These? Born with'em...."
 #. A termite walks into a bar and asks, "Is the bar tender here?"
-#. Two whales walk into a bar.
+#. | Two whales walk into a bar.
    | They approach the bartender and the first says "WAAAAAAAAAAAOOOOOOOOHHHHOOAAAAAUAUUUAUAAAAUAAUUUUAAAAAAOOOOOOOOOOOOOOOYYYAAAAAAAAOOOOOOOOOOOOEEEEEEEEEEEAAAAAAAAAAAOOOOOOOOOOUUUUUUUUUUUUUUU."
    | The second whale turns to him and says, "Frank, you're drunk."
-#. Why do chicken coops have two doors?
+#. | Why do chicken coops have two doors?
    | Because if it had four it would be a chicken sedan
-#. What did the buffalo say to his son when he dropped him off at school?
+#. | What did the buffalo say to his son when he dropped him off at school?
    | Bison.
-#. I'm on this table and I don't know how I goat here.
+#. | I'm on this table and I don't know how I goat here.
    | Hey kid, get down from that table.
    | These puns are just baaaaaaaaad.
-#. Why can't you hear a pterodactyl going to the bathroom?
+#. | Why can't you hear a pterodactyl going to the bathroom?
    | Because the P is silent.
-#. What do you call a camel with no humps?
+#. | What do you call a camel with no humps?
    | Humphrey.
-#. Frog parking only.
+#. | Frog parking only.
    | All others will be toad.
-#. Cows are worth a lot of money.
+#. | Cows are worth a lot of money.
    | If you milk them for all their worth.
-#. Why do cows wear bells?
+#. | Why do cows wear bells?
    | Because their horns don't work.
-#. How did the farmer keep track of how many cows he had?
+#. | How did the farmer keep track of how many cows he had?
    | With a cow-culator.
-#. What do you call a dinosaur with an extensive vocabulary?
+#. | What do you call a dinosaur with an extensive vocabulary?
    | A thesaurus.
+#. | What do you call a cow with no legs?
+   | Ground beef.
+#. To err is human, to moo bovine.
+#. | I took the shell of a snail to make him faster.
+   | It only made him more sluggish.
+#. When fish are in schools they sometimes take debate.
+#. If life gives you llamas, make llamanade.
+#. Time flies like an arrow; fruit flies like a banana.
+#. | I adopted a dog without a tail.
+   | So I took him to a retail shop.
+#. | My daughter adopted a cat.
+   | She named it Pat.
+   | As in, Pat the Cat.
+#. | A cop is sitting in his usual speed trap spot and sees a truck drive by with the back full of penguins. He is understandably perplexed so he pulls the truck over.
+   | "Excuse me sir, but why do you have all those penguins in the back of your truck?"
+   | "I'm sorry officer, but I just don't know what to do with them!"
+   | Incredulous, the officer responds, "take them to the zoo!"
+   | The driver thanks the officer and drives off. The next day the cop is in the same spot and dang-it-all if that same truck doesn't drive by again, but this time the penguins are all wearing sunglasses. The frustrated cop again pulls the truck over. "I thought I told you to take those penguins to the zoo!"
+   | "I did officer, today we're going to the beach!"
+#. Why do you never see elephants hiding in trees?
+   | Because they're very good at it.
+#. What do you call an alligator in a vest? An investigator!
+#. A horse walks into a bar. The bartender says "Hey." The horse says "Sure."
+#. What do you call a bear in the rain? A drizzly bear.
+#. What did the boy mushroom say to the girl mushroom?
+   | You should go out with me. I'm a fungi.
+#. What do you call a bear with no teeth? A gummy bear
+#. Why couldn't the elephant move?
+   | He couldn't lift his trunk!
+#. What do bears wear on their feet? Nothing, they're bare foot
+#. What's a polar bear's favorite food? Ice-bear-gers.
+#. What do you call an elephant that doesn't matter?
+   | An irrelephant.
+#. Did you hear about the skunk who went to church? He had his own pew.
+#. How many times do you have to tickle an octopus before it laughs? Ten-tickles
+#. What's orange and sounds like a parrot? A carrot.
+#. I've written a book about poltergeists, I'm pleased to say it's flying off the shelves.
+#. What has four wheels and flies? A garbage truck
+#. What do you call an Italian with a rubber toe? Roberto.
 
-78.
-What do you call a cow with no legs?
-Ground beef.
-79.
-To err is human, to moo bovine.
-80.
-I took the shell of a snail to make him faster.
-It only made him more sluggish.
-81.
-What do you call a dog with no legs?
-It doesn't matter; it isn't going to come.
-82.
-When fish are in schools they sometimes take debate.
-83.
-If life gives you llamas, make llamanade.
-84.
-Time flies like an arrow; fruit flies like a banana.
-85.
-How many unarmed people would it take to kill a hippo?
-Trick question. How will they kill it if they don't have arms?
-86.
-I adopted a dog without a tail.
-So I took him to a retail shop.
-
-My daughter adopted a cat.
-She named it Pat.
-As in, Pat the Cat.
-87.
-A cop is sitting in his usual speed trap spot and sees a truck drive by with the back full of penguins. He is understandably perplexed so he pulls the truck over.
-"Excuse me sir, but why do you have all those penguins in the back of your truck?"
-"I'm sorry officer, but I just don't know what to do with them!"
-Incredulous, the officer responds, "take them to the zoo!"
-The driver thanks the officer and drives off. The next day the cop is in the same spot and dang-it-all if that same truck doesn't drive by again, but this time the penguins are all wearing sunglasses. The frustrated cop again pulls the truck over. "I thought I told you to take those penguins to the zoo!"
-"I did officer, today we're going to the beach!"
-88.
-Why do ducks have flat feet?
-From stamping out forest fires.
-Why do Elephants have flat feet?
-From stamping out burning ducks.
-89.
-Why do you never see elephants hiding in trees?
-Because they're very good at it.
-90.
-What do you call an alligator in a vest? An investigator!
-91.
-A horse walks into a bar. The bartender says "Hey." The horse says "Sure."
-92.
-What do you call a bear in the rain? A drizzly bear.
-93.
-What did the boy mushroom say to the girl mushroom?
-You should go out with me. I'm a fungi.
-94.
-What do you call a bear with no teeth? A gummy bear
-95.
-Why couldn't the elephant move?
-He couldn't lift his trunk!
-96.
-What do bears wear on their feet? Nothing, they're bare foot
-97.
-What's a polar bear's favorite food? Ice-bear-gers.
-98.
-What do you call an elephant that doesn't matter?
-An irrelephant.
-
-Did you hear about the skunk who went to church?
-He had his own pew.
-
-How many times do you have to tickle an octopus before it laughs?
-Ten-tickles
-
-What's orange and sounds like a parrot?
-A carrot.
-
-I've written a book about poltergeists, I'm pleased to say it's flying off the shelves.
-
-What has four wheels and flies? A garbage truck
-
-What do you call an Italian with a rubber toe? Roberto.
 Relationships
-99.
-Back in school I asked a girl out.
-She gave me the number for the local laundromat.
-"You live at the laundromat?" I said. "That sounds fabricated."
-"I just give out that number to deter gents," she said.
-100.
-A teenage boy is getting ready to take his girlfriend to the prom.
-First he goes to rent a tux, but there's a long tux line at the shop and it takes forever.
-Next, he has to get some flowers, so he heads over to the florist and there's a huge flower line there. He waits forever but eventually gets the flowers.
-Then he heads out to rent a limo. Unfortunately, there's a large limo line at the rental office, but he's patient and gets the job done.
-Finally, the day of the prom comes. The two are dancing happily and his girlfriend is having a great time.
-When the song is over, she asks him to get her some punch, so he heads over to the punch table and there's no punchline.
-101.
-Two brooms were hanging in the closet and after a while they got to know each other so well, they decided to get married.
-One broom was, of course, the bride broom, the other was the groom broom.
-The bride broom looked very beautiful in her white dress. The groom broom was handsome and suave in his tuxedo. The wedding was lovely.
-At the wedding dinner, the bride-broom leaned over and said to the groom-broom, "I think I am going to have a little whisk broom!"
-"IMPOSSIBLE", said the groom broom.
-"WE HAVEN'T EVEN SWEPT TOGETHER!"
-102.
-When my girlfriend said she was leaving because of my obsession with The Monkees, I thought she was joking.
-And then I saw her face.
-103.
-I almost had a psychic girlfriend... but she left me before we met.
-104.
-My wife accused me of being immature.
-I told her to get out of my fort.
-105.
-This woman said she met me at a vegetarian restaurant.
-But I never met herbivore.
-106.
-Shotgun wedding: A case of wife or death.
-107.
-With her marriage she got a new name and a dress.
-108.
-Back in high school I bought a bag of limes. I "accidentally" dropped them in front of a beautiful woman. "Can you help me out?" I said. "I'm terrible at pick-up limes."
-109.
-Dancing cheek-to-cheek is really a form of floor play.
-110.
-I dated a woman with a taser. She was stunning.
-111.
-She had a great wedding. Even the cake was in tiers.
-112.
-I knew a red-haired woman in college. She married a guy with red hair and had kids. They all lived together in a ginger-bred house.
+-------------
+
+#. Back in school I asked a girl out.
+   | She gave me the number for the local laundromat.
+   | "You live at the laundromat?" I said. "That sounds fabricated."
+   | "I just give out that number to deter gents," she said.
+#. A teenage boy is getting ready to take his girlfriend to the prom.
+   | First he goes to rent a tux, but there's a long tux line at the shop and it takes forever.
+   | Next, he has to get some flowers, so he heads over to the florist and there's a huge flower line there. He waits forever but eventually gets the flowers.
+   | Then he heads out to rent a limo. Unfortunately, there's a large limo line at the rental office, but he's patient and gets the job done.
+   | Finally, the day of the prom comes. The two are dancing happily and his girlfriend is having a great time.
+   | When the song is over, she asks him to get her some punch, so he heads over to the punch table and there's no punchline.
+#. Two brooms were hanging in the closet and after a while they got to know each other so well, they decided to get married.
+   | One broom was, of course, the bride broom, the other was the groom broom.
+   | The bride broom looked very beautiful in her white dress. The groom broom was handsome and suave in his tuxedo. The wedding was lovely.
+   | At the wedding dinner, the bride-broom leaned over and said to the groom-broom, "I think I am going to have a little whisk broom!"
+   | "IMPOSSIBLE", said the groom broom.
+   | "WE HAVEN'T EVEN SWEPT TOGETHER!"
+#. When my girlfriend said she was leaving because of my obsession with The Monkees, I thought she was joking.
+   | And then I saw her face.
+#. My wife accused me of being immature.
+   | I told her to get out of my fort.
+#. This woman said she met me at a vegetarian restaurant.
+   | But I never met herbivore.
+#. Back in high school I bought a bag of limes. I "accidentally" dropped them in front of a beautiful woman. "Can you help me out?" I said. "I'm terrible at pick-up limes."
+#. I dated a woman with a taser. She was stunning.
+#. I knew a red-haired woman in college. She married a guy with red hair and had kids. They all lived together in a ginger-bred house.
+
 Math and Science
-113.
-I poured root beer into a square cup.
-Now I just have beer.
-114.
-Q: What does the "B" in Benoit B. Mandelbrot stand for?
-A: Benoit B. Mandelbrot.
-115.
-"Why couldn't the bicycle stand up?"
-"Because it was two tired"
-116.
-My scales showed me this morning that I weighed about the same as a single atom.
-I was like 0mg.
-117.
-Did you hear about the guy who froze himself to absolute zero?
-He's 0K now!
-118.
-A physicist, a mathematician and an engineer were each asked to establish the volume of a red rubber ball.
-The physicist immersed the ball in a beaker full of water and measured the volume of the displaced fluid.
-The mathematician measured the diameter and calculated a triple integral.
-The engineer looked it up in his Red Rubber Ball Volume Table.
-119.
-Two fermions walk into a bar.
-The first says "I'd like a vodka martini with a twist."
-The second says "Dammit, that's what I wanted!"
-120.
-The programmer's wife tells him: "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen."
-The programmer comes home with 12 loaves of bread.
-121.
-A logician's wife is having a baby. The doctor immediately hands the newborn to the dad. His wife asks impatiently: "So, is it a boy or a girl?"
-The logician replies: "yes."
-122.
-A Photon checks into a hotel and the bellhop asks him if he has any luggage.
-The Photon replies "No I'm traveling light."
-123.
-Does the name Pavlov ring a bell?
-124.
-Without geometry, life is pointless.
-125.
-The math professor went crazy with the blackboard; he did a number on it.
-126.
-If electricity comes from electrons, does that mean that morality comes from morons?
-127.
-Parallel lines have so much in common.
-It's a shame they'll never meet.
-128.
-I read a book on anti-gravity.
-I couldn't put it down.
-129.
-Entropy isn't what it used to be.
-130.
-If your car could travel at the speed of light, would your headlights work?
-131.
-There are two types of people in the world:
-Those who can extrapolate from incomplete data sets
-132.
-The roundest knight at King Arthur's round table was Sir Cumference.
-He gained his stature from pi.
-133.
-The professor discovered that her theory of earthquakes was on shaky ground.
-134.
-My dog just had puppies.
-I have a new litter of black labs at home.
-I have a home labradory.
-135.
-That show on irrigation was actually interesting.
-I'll be dammed.
-136.
-Atheists don't solve exponential equations because they don't believe in higher powers.
-137.
-How do Astronomers have a party?
-They planet!
-138.
-A biologist, a chemist, and a statistician are out hunting. The biologist shoots at a deer and misses 5ft to the left, the chemist takes a shot and misses 5ft to the right, the statistician yells "We got 'em!"
-139.
-What did the stormtrooper say when he went to church?
-Pew pew pew pew pew!
-140.
-I couldn't turn my homework in on time, because of my calcu-later.
-141.
-The psychiatrist said she wanted to hear about my problems. So I pulled out my math book.
+----------------
 
-Where do astronauts drink? At the space bar.
-
-141b.
-I make science-based puns periodically.
-141b.
-My dog is sick. He’s a little husky.
+#. I poured root beer into a square cup.
+   | Now I just have beer.
+#. Q: What does the "B" in Benoit B. Mandelbrot stand for?
+   | A: Benoit B. Mandelbrot.
+#. "Why couldn't the bicycle stand up?"
+   | "Because it was two tired"
+#. My scales showed me this morning that I weighed about the same as a single atom.
+   | I was like 0mg.
+#. Did you hear about the guy who froze himself to absolute zero?
+   | He's 0K now!
+#. Two fermions walk into a bar.
+   | The first says "I'd like a vodka martini with a twist."
+   | The second says "Dammit, that's what I wanted!"
+#. The programmer's wife tells him: "Run to the store and pick up a loaf of bread. If they have eggs, get a dozen."
+   | The programmer comes home with 12 loaves of bread.
+#. A logician's wife is having a baby. The doctor immediately hands the newborn to the dad. His wife asks impatiently: "So, is it a boy or a girl?"
+   | The logician replies: "yes."
+#. A Photon checks into a hotel and the bellhop asks him if he has any luggage.
+   | The Photon replies "No I'm traveling light."
+#. Does the name Pavlov ring a bell?
+#. Without geometry, life is pointless.
+#. The math professor went crazy with the blackboard; he did a number on it.
+#. If electricity comes from electrons, does that mean that morality comes from morons?
+#. Parallel lines have so much in common.
+   | It's a shame they'll never meet.
+#. I read a book on anti-gravity.
+   | I couldn't put it down.
+#. Entropy isn't what it used to be.
+#. If your car could travel at the speed of light, would your headlights work?
+#. There are two types of people in the world:
+   | Those who can extrapolate from incomplete data sets
+#. The roundest knight at King Arthur's round table was Sir Cumference.
+   | He gained his stature from pi.
+#. The professor discovered that her theory of earthquakes was on shaky ground.
+#. My dog just had puppies.
+   | I have a new litter of black labs at home.
+   | I have a home labradory.
+#. That show on irrigation was actually interesting.
+   | I'll be dammed.
+#. Atheists don't solve exponential equations because they don't believe in higher powers.
+#. How do Astronomers have a party?
+   | They planet!
+#. A biologist, a chemist, and a statistician are out hunting. The biologist shoots at a deer and misses 5ft to the left, the chemist takes a shot and misses 5ft to the right, the statistician yells "We got 'em!"
+#. What did the stormtrooper say when he went to church?
+   | Pew pew pew pew pew!
+#. I couldn't turn my homework in on time, because of my calcu-later.
+#. The psychiatrist said she wanted to hear about my problems. So I pulled out my math book.
+#. Where do astronauts drink? At the space bar.
+#. I make science-based puns periodically.
+#. My dog is sick. He’s a little husky.
 
 Biology
-142.
-A pessimist's blood type is always b-negative.
-143.
-They told me I had Type-A blood.
-Turns out it was a Type-O.
-144.
-Why can't your nose be 12 inches long? Because then it would be a foot!
-145.
-Have you heard about the movie Constipation? It hasn't come out yet.
-146.
-PMS jokes aren't funny.
-Period.
-147.
-When you get a bladder infection, urine trouble.
-148.
-My kid broke out in an allergic reaction. My wife wanted to take her to the ER. I told her not to make any rash decisions.
-149.
-Condoms should be used on every conceivable occasion.
-150.
-Adolescence: when a lad forsakes his bosom buddy for a bosomed buddy.
-151.
-He had a photographic memory which was never developed.
-152.
-Smaller babies come by stork. Larger ones by crane.
-153.
-A plant that can't absorb water seeks a xylem.
-154.
-Frankenstein entered a bodybuilding contest and realized he severely misunderstood the objective.
-155.
-How do you make a tissue dance? Put a little boogie in it!
+-------
+
+#. A pessimist's blood type is always b-negative.
+#. They told me I had Type-A blood.
+   | Turns out it was a Type-O.
+#. Why can't your nose be 12 inches long? Because then it would be a foot!
+#. Have you heard about the movie Constipation? It hasn't come out yet.
+#. PMS jokes aren't funny.
+   | Period.
+#. When you get a bladder infection, urine trouble.
+#. My kid broke out in an allergic reaction. My wife wanted to take her to the ER. I told her not to make any rash decisions.
+#. Condoms should be used on every conceivable occasion.
+#. Adolescence: when a lad forsakes his bosom buddy for a bosomed buddy.
+#. He had a photographic memory which was never developed.
+#. Smaller babies come by stork. Larger ones by crane.
+#. A plant that can't absorb water seeks a xylem.
+#. Frankenstein entered a bodybuilding contest and realized he severely misunderstood the objective.
+#. How do you make a tissue dance? Put a little boogie in it!
+
 Music
-156.
-What do you get when you put a piano down a mine shaft? A flat miner.
-157.
-C, E-flat and G go into a bar. The bartender says, "Sorry, we don't serve minors," and E-flat leaves. C and G have an open fifth between them. After a few drinks, the fifth is diminished and G is out flat. F comes in and tries to augment the situation, but is not sharp enough. D comes into the bar and heads straight for the bathroom saying, "Excuse me, I'll just be a second."
-A comes into the bar, but the bartender is not convinced that this relative of C is not a minor and sends him out. Then the bartender notices a B-flat hiding at the end of the bar and shouts, "Get out now. You're the seventh minor I've found in this bar tonight."
-Next night, E-flat, not easily deflated, comes into the bar in a 3-piece suit with nicely shined shoes. The bartender says: "You're looking pretty sharp tonight. Come on in. This could be a major development." Sure enough, E-flat takes off his suit and everything else and stands there au naturel.
-Eventually, C, who had passed out under the bar the night before, begins to sober up and realizes in horror that he's under a rest. So, C goes to trial, is convicted of contributing to the diminution of a minor and sentenced to 10 years of DS without Coda at an upscale correctional facility. The conviction is overturned on appeal, however, and C is found innocent of any wrongdoing, even accidental, and that all accusations to the contrary are bassless.
-The bartender decides, however, that since he's only had tenor so patrons, the soprano out in the bathroom and everything has become alto much treble, he needs a rest and closes the bar.
-158.
-Q: How do you tell when your lead singer is at the door?
-A: He can't find the key and doesn't know when to come in.
-159.
-Q: What is the difference between a Wagnerian soprano and an All-Pro offensive lineman?
-A: Stage makeup.
-160.
-Q: How many lead singers does it take to change a light bulb?
-A: One. He holds the bulb while the world revolves around him.
-161.
-Q: Did you hear about the female opera singer who had quite a range at the lower end of the scale.
-A: She was known as the deep C diva.
-162.
-Q: What is the missing link between the bass and the ape?
-A: The baritone.
-163.
-Q: What is the difference between a Wagnerian soprano and a Wagnerian Tenor?
-A: About 10 pounds.
-164.
-Q: How can you tell when a tenor is really stupid?
-A: When the other tenors notice.
-165.
-Ever hear the one about the tenor who was so off-key that even the other tenors could tell?
-166.
-Q: How many tenors does it take to change a light bulb?
-A: Six. One to do it, and five to say, "It's too high for him."
-167.
-Q: What's the inscription on dead blues-singers tombstones?
-A: "I didn't wake up this morning..."
-168.
-Person 1: It must be terrible for an opera singer to realize that he can never sing again.
-Person 2: Yes, but it's much more terrible if he doesn't realize it.
-169.
-Q: Dad, why do the singers rock left and right while performing on stage?
-A: Because, son, it is more difficult to hit a moving target.
-170.
-Q: Mom, why do you always stand by the window when I practice for my singing lessons?
-A: I don't want the neighbours to think I'm employing corporal punishment, dear.
-171.
-Q: How many altos does it take to change a light bulb?
-A: None. They can't get up that high.
-172.
-Q: How many lead singers does it take to change a light bulb?
-A: None. Get the drummer to do it.
-173.
-Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.
-174.
-He often broke into a song because he couldn't find the key.
-175.
-Two drums and a cymbal fall off a cliff.
-Duh dum chh.
-176.
-Pirates make great singers because they can handle high seas.
-177.
-Music classes should be held later in the day, so students can end on a good note.
-178.
-My memory is terrible and I don't remember 80's bands. There is no cure.
-Food
-179.
-Do you know what a tudurken is?
-I learned about it on the cooking channel. It is a chicken stuffed inside a duck stuffed inside a turkey.
-It sounds pretty fowl.
-180.
-I have a joke about a pizza.
-Never mind, too cheesy.
-181.
-Did you hear about the hipster that burned his mouth eating pizza? He ate it before it was cool.
-182.
-A successful diet is the triumph of mind over platter.
-183.
-Dijon vu - the same mustard as before.
-184.
-A boiled egg is hard to beat.
-185.
-Practice safe eating: always use condiments.
-186.
-A hangover is the wrath of grapes.
-187.
-A successful diet is the triumph of mind over platter.
-188.
-A boiled egg is hard to beat.
-189.
-Thieves who steal corn from a garden could be charged with stalking.
-190.
-I got hit in the head with a can of soda. Lucky it was a soft drink.
-191.
-Every time I eat food with artificial colors, I feel like I dyed a little inside.
-192.
-You heard the rumor going around about butter? Nevermind, I shouldn't spread it.
-193.
-What's a bagel that can fly? A plain bagel.
-194.
-People eat margarine instead of butter because they think it is better. It isn't. It is marginally worse.
+-----
+
+#. What do you get when you put a piano down a mine shaft? A flat miner.
+
+#. C, E-flat and G go into a bar. The bartender says, "Sorry, we don't serve minors," and E-flat leaves. C and G have an open fifth between them. After a few drinks, the fifth is diminished and G is out flat. F comes in and tries to augment the situation, but is not sharp enough. D comes into the bar and heads straight for the bathroom saying, "Excuse me, I'll just be a second."
+   | A comes into the bar, but the bartender is not convinced that this relative of C is not a minor and sends him out. Then the bartender notices a B-flat hiding at the end of the bar and shouts, "Get out now. You're the seventh minor I've found in this bar tonight."
+   | Next night, E-flat, not easily deflated, comes into the bar in a 3-piece suit with nicely shined shoes. The bartender says: "You're looking pretty sharp tonight. Come on in. This could be a major development." Sure enough, E-flat takes off his suit and everything else and stands there au naturel.
+   | Eventually, C, who had passed out under the bar the night before, begins to sober up and realizes in horror that he's under a rest. So, C goes to trial, is convicted of contributing to the diminution of a minor and sentenced to 10 years of DS without Coda at an upscale correctional facility. The conviction is overturned on appeal, however, and C is found innocent of any wrongdoing, even accidental, and that all accusations to the contrary are bassless.
+   | The bartender decides, however, that since he's only had tenor so patrons, the soprano out in the bathroom and everything has become alto much treble, he needs a rest and closes the bar.
+
+#. Q: How do you tell when your lead singer is at the door?
+   | A: He can't find the key and doesn't know when to come in.
+#. Q: How many lead singers does it take to change a light bulb?
+   | A: One. He holds the bulb while the world revolves around him.
+#. Q: Did you hear about the female opera singer who had quite a range at the lower end of the scale.
+   | A: She was known as the deep C diva.
+#. Q: What is the missing link between the bass and the ape?
+   | A: The baritone.
+#. Q: How many tenors does it take to change a light bulb?
+   | A: Six. One to do it, and five to say, "It's too high for him."
+#. Q: How many altos does it take to change a light bulb?
+   | A: None. They can't get up that high.
+#. Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.
+#. He often broke into a song because he couldn't find the key.
+#. Two drums and a cymbal fall off a cliff.
+   | Duh dum chh.
+#. Pirates make great singers because they can handle high seas.
+#. Music classes should be held later in the day, so students can end on a good note.
+#. My memory is terrible and I don't remember 80's bands. There is no cure.
+   | Food
+#. Do you know what a tudurken is?
+   | I learned about it on the cooking channel. It is a chicken stuffed inside a duck stuffed inside a turkey.
+   | It sounds pretty fowl.
+#. I have a joke about a pizza.
+   | Never mind, too cheesy.
+#. Did you hear about the hipster that burned his mouth eating pizza? He ate it before it was cool.
+#. A successful diet is the triumph of mind over platter.
+#. Dijon vu - the same mustard as before.
+#. A boiled egg is hard to beat.
+#. Practice safe eating: always use condiments.
+#. A hangover is the wrath of grapes.
+#. A successful diet is the triumph of mind over platter.
+#. A boiled egg is hard to beat.
+#. Thieves who steal corn from a garden could be charged with stalking.
+#. I got hit in the head with a can of soda. Lucky it was a soft drink.
+#. Every time I eat food with artificial colors, I feel like I dyed a little inside.
+#. You heard the rumor going around about butter? Nevermind, I shouldn't spread it.
+#. What's a bagel that can fly? A plain bagel.
+#. People eat margarine instead of butter because they think it is better. It isn't. It is marginally worse.
+
 Religion
-195.
-How do you make Holy Water?
-Boil the hell out of it!
-196.
-And then God created Saturn... And he liked it, so he put a ring on it.
-197.
-Did Noah keep his bees in archives?
-198.
-How does Moses make coffee?
-Hebrews it.
-199.
-And the Lord said unto John, "Come forth and you will receive eternal life."
-But John came fifth, and won a toaster.
-200.
-Noah's Ark was made of gopher-wood, but Joan of Arc was maid of Orleans.
-201.
-Need an ark? I Noah guy.
-202.
-Atheism is a non-prophet organization.
-203.
-So the pope is SUPER early for his flight. He asks his driver on his way to the airport if he could drive around for a while because they have time to kill and he hasn't driven a car since becoming the pope. Naturally he's a bit rusty so he's driving poorly when suddenly he sees police lights behind him. He pulls over and when the officer comes up to the window his eyes go wiiiide. He says to the pope "Hold on for a minute" and he goes back to his car to radio the chief.
-Cop: Chief we have a situation. I've pulled over an important figure.
-Chief: How important? A governor or something?
-Cop: No sir. He's bigger.
-Chief: So, what? a celebrity or something?
-Cop: More important, sir.
-Chief: A major politician?
-Cop: No sir, he's much more important.
-Chief: WELL WHO IS IT!?
-Cop: Well actually I'm not sure. But the pope's his driver.
+--------
+
+#. How do you make Holy Water?
+   | Boil the hell out of it!
+#. And then God created Saturn... And he liked it, so he put a ring on it.
+#. Did Noah keep his bees in archives?
+#. How does Moses make coffee?
+   | Hebrews it.
+#. And the Lord said unto John, "Come forth and you will receive eternal life."
+   | But John came fifth, and won a toaster.
+#. Noah's Ark was made of gopher-wood, but Joan of Arc was maid of Orleans.
+#. Need an ark? I Noah guy.
+#. Atheism is a non-prophet organization.
+#. So the pope is SUPER early for his flight. He asks his driver on his way to the airport if he could drive around for a while because they have time to kill and he hasn't driven a car since becoming the pope. Naturally he's a bit rusty so he's driving poorly when suddenly he sees police lights behind him. He pulls over and when the officer comes up to the window his eyes go wiiiide. He says to the pope "Hold on for a minute" and he goes back to his car to radio the chief.
+   | Cop: Chief we have a situation. I've pulled over an important figure.
+   | Chief: How important? A governor or something?
+   | Cop: No sir. He's bigger.
+   | Chief: So, what? a celebrity or something?
+   | Cop: More important, sir.
+   | Chief: A major politician?
+   | Cop: No sir, he's much more important.
+   | Chief: WELL WHO IS IT!?
+   | Cop: Well actually I'm not sure. But the pope's his driver.
+
 Technology
-204.
-There's a band called 1023MB. They haven't had any gigs yet.
-205.
-The dead batteries were given out free of charge.
-206.
-If you take a laptop computer for a run you could jog your memory.
-207.
-How many programmers does it take to screw in a light bulb?
-None, it is a hardware issue.
-208.
-I proposed to a woman who was really good at MS Excel.
-Soon she will be Mrs Excel.
-I was told an Office romance wouldn't work out.
-That was a Powerful point.
-The Outlook was grim.
-But once I got Access she was good between the spreadsheets.
-209.
-Crap. Somehow my computer is set to the Czech language. There must be a czech box I need to un-czech somewhere.
-210.
-Local Area Network in Australia: the LAN down under.
-211.
-I'd tell you a UDP joke, but you may not get it.
-I prefer IP jokes; it's all in the delivery.
-I could tell you a joke about TCP, but I'd have to keep repeating it until you got it.
-212.
-Me: Doctor you've got to help me, I'm addicted to Twitter.
-Doctor: I don't follow you.
-213.
-What did the fish say when it ran into the wall?
-Dam.
-214.
-What do prisoners use to call each other?
-Cell phones.
-215.
-Are you a traveling salesman? Because you make me np-complete.
-216.
-An SQL developer walks into a bar and can join any table she wants.
-A CSS developer walks into a bar and complains that there are tables.
-217.
-I keep my jokes in a dada-base.
-218.
-8 rabbits = 1 rabbyte.
+----------
+
+#. There's a band called 1023MB. They haven't had any gigs yet.
+#. The dead batteries were given out free of charge.
+#. If you take a laptop computer for a run you could jog your memory.
+#. How many programmers does it take to screw in a light bulb?
+   | None, it is a hardware issue.
+#. I proposed to a woman who was really good at MS Excel.
+   | Soon she will be Mrs Excel.
+   | I was told an Office romance wouldn't work out.
+   | That was a Powerful point.
+   | The Outlook was grim.
+   | But once I got Access she was good between the spreadsheets.
+#. Crap. Somehow my computer is set to the Czech language. There must be a czech box I need to un-czech somewhere.
+#. Local Area Network in Australia: the LAN down under.
+#. I'd tell you a UDP joke, but you may not get it.
+   | I prefer IP jokes; it's all in the delivery.
+   | I could tell you a joke about TCP, but I'd have to keep repeating it until you got it.
+#. Me: Doctor you've got to help me, I'm addicted to Twitter.
+   | Doctor: I don't follow you.
+#. What did the fish say when it ran into the wall?
+   | Dam.
+#. What do prisoners use to call each other?
+   | Cell phones.
+#. Are you a traveling salesman? Because you make me np-complete.
+#. An SQL developer walks into a bar and can join any table she wants.
+   | A CSS developer walks into a bar and complains that there are tables.
+#. I keep my jokes in a dada-base.
+#. 8 rabbits = 1 rabbyte.
 
 
 Geography and Politics
-I
-I know this girl from Israel. She Israelly cute.
-217.
-I'm American, and I'm sick of people saying America is "the stupidest country in the world."
-Personally, I think Europe is the stupidest country in the world.
+----------------------
+
+#. I know this girl from Israel. She Israelly cute.
+#. I'm American, and I'm sick of people saying America is "the stupidest country in the world."
+   | Personally, I think Europe is the stupidest country in the world.
+
 218.
 Those who jump off a Paris bridge are in Seine.
 219.
@@ -643,80 +473,45 @@ Captain Blackbeard was also a stickler on grammar. One day a crew member scurrie
 Captain replies, "Arrrrrrre!"
 257.
 Like most people my age, I'm 27.
-258.
-Borrow money from pessimists -- they don't expect it back.
-259.
-Half the people you know are below average.
-260.
-I told my friend that she drew her eyebrows on too high. She looked surprised.
-261.
-It's hard to explain puns to kleptomaniacs because they always take things literally.
-262.
-There are two types of people in the world: Those who crave closure
-263.
-This sentence contains exactly threee erors.
-264.
-What is Forrest Gump's password? 1forrest1
-265.
-Corduroy pillows are making headlines.
-266.
-Is a book on voyeurism a peeping tome?
-267.
-A gossip is someone with a great sense of rumor.
-268.
-When you dream in color, it's a pigment of your imagination.
-269.
-Reading while sunbathing makes you well-red.
-270.
-A man's home is his castle, in a manor of speaking.
-271.
-When two egotists meet, it's an I for an I.
-272.
-You feel stuck with your debt if you can't budge it.
-273.
-A lot of money is tainted. 'Taint yours and it taint mine.
-274.
-Once you've seen one shopping center, you've seen a mall.
-275.
-That lazy Red Kneck is a farmer outstanding in his field.
-276.
-Police were called to a daycare center today where a three-year-old was resisting a rest.
-277.
-Did you hear about the guy whose whole left side was cut off? He's all right now.
-278.
-To write with a broken pencil is pointless.
-279.
-When the thief fell in the wet cement and broke both legs, he became a hardened criminal.
-280.
-A will is a dead giveaway.
-281.
-You are stuck with your debt if you can't budge it.
-282.
-Those who get too big for their britches will be exposed in the end.
-283.
-Wear short sleeves! Support your right to bare arms!
-284.
-Despite rumors to the contrary, a mime is actually a very satisfying thing to waste.
-285.
-My wife really likes to make pottery, but to me it's just kiln time.
-286.
-Is a book on voyeurism a peeping tome?
-287.
-Banning the bra was a big flop.
-288.
-Two banks with different rates have a conflict of interest.
-289.
-A gossip is someone with a great sense of rumor.
-290.
-Having autocorrect is both a blessing and a cruise.
-291.
-A Honda Accord and a Saturn Ion just crashed in front of my house. Now I have an accord-ion.
-292.
-You want a joke? Here's one for you.
-1
-293.
-Want to hear a word I just made up?
-Plagiarism.
+#. Borrow money from pessimists -- they don't expect it back.
+#. Half the people you know are below average.
+#. I told my friend that she drew her eyebrows on too high. She looked surprised.
+#. It's hard to explain puns to kleptomaniacs because they always take things literally.
+#. There are two types of people in the world: Those who crave closure
+#. This sentence contains exactly threee erors.
+#. What is Forrest Gump's password? 1forrest1
+#. Corduroy pillows are making headlines.
+#. Is a book on voyeurism a peeping tome?
+#. A gossip is someone with a great sense of rumor.
+#. When you dream in color, it's a pigment of your imagination.
+#. Reading while sunbathing makes you well-red.
+#. A man's home is his castle, in a manor of speaking.
+#. When two egotists meet, it's an I for an I.
+#. You feel stuck with your debt if you can't budge it.
+#. A lot of money is tainted. 'Taint yours and it taint mine.
+#. Once you've seen one shopping center, you've seen a mall.
+#. That lazy Red Kneck is a farmer outstanding in his field.
+#. Police were called to a daycare center today where a three-year-old was resisting a rest.
+#. Did you hear about the guy whose whole left side was cut off? He's all right now.
+#. To write with a broken pencil is pointless.
+#. When the thief fell in the wet cement and broke both legs, he became a hardened criminal.
+#. A will is a dead giveaway.
+#. You are stuck with your debt if you can't budge it.
+#. Those who get too big for their britches will be exposed in the end.
+#. Wear short sleeves! Support your right to bare arms!
+#. Despite rumors to the contrary, a mime is actually a very satisfying thing to waste.
+#. My wife really likes to make pottery, but to me it's just kiln time.
+#. Is a book on voyeurism a peeping tome?
+#. Banning the bra was a big flop.
+#. Two banks with different rates have a conflict of interest.
+#. A gossip is someone with a great sense of rumor.
+#. Having autocorrect is both a blessing and a cruise.
+#. A Honda Accord and a Saturn Ion just crashed in front of my house. Now I have an accord-ion.
+#. You want a joke? Here's one for you.
+   | 1
+#. Want to hear a word I just made up?
+   | Plagiarism.
+
 294.
 Someone stole my mood ring.
 I don't know how I feel about that.
@@ -791,32 +586,34 @@ He slams down his drink and looks around wildly. Frustrated and finding no possi
 He says, “Hey barkeep! What’s that voice I keep hearing?”
 “Oh, those are the peanuts,” the bartender replies. “They’re complimentary.”
 
-A weasel walks into a bar. The bartender says, "Wow I've never served a weasel before, what can I get you?" "Pop", goes the weasel.
+#. A weasel walks into a bar. The bartender says, "Wow I've never served a weasel before, what can I get you?" "Pop", goes the weasel.
 
-ƒ(x) walks into a bar. The bartender says, "Sorry, we don't cater for functions."
+#. ƒ(x) walks into a bar. The bartender says, "Sorry, we don't cater for functions."
 
-Three fonts walk into a bar. The bartender looks up and says, "We don't serve your type in here."
+#. Three fonts walk into a bar. The bartender looks up and says, "We don't serve your type in here."
 
-A tennis ball walks into a bar. The barman says, "Have you been served?"
+#. A tennis ball walks into a bar. The barman says, "Have you been served?"
 
-What did the drunk women said to the man after leaving the bar? Alcohol-you later
+#. What did the drunk women said to the man after leaving the bar? Alcohol-you later
 
-One day, a fourteen-year-old weasel went down to the local dance hall. The bartender took one look at him and says, “You are under-aged. I can’t serve you beer.” The weasel asks, “What can I have?” The bartender replies, “I have bottled water, juice, energy drinks, and pop.” “Pop!” goes the weasel.
+#. One day, a fourteen-year-old weasel went down to the local dance hall. The bartender took one look at him and says, “You are under-aged. I can’t serve you beer.” The weasel asks, “What can I have?” The bartender replies, “I have bottled water, juice, energy drinks, and pop.” “Pop!” goes the weasel.
 
-So a dog walks into a bar and asks the bartender, "Do you have any jobs?" and the bartender says, "Why don't you try the circus?" The dog replies, "Why would the circus need a bartender?"
+#. So a dog walks into a bar and asks the bartender, "Do you have any jobs?" and the bartender says, "Why don't you try the circus?" The dog replies, "Why would the circus need a bartender?"
 
-A pig walks into a bar, orders 15 beers, and drinks them. The bartender asks, "Would you like to know where the bathroom is?" "No," says the pig. "I'm the little piggy that goes wee-wee-wee all the way home."
+#. A pig walks into a bar, orders 15 beers, and drinks them. The bartender asks, "Would you like to know where the bathroom is?" "No," says the pig. "I'm the little piggy that goes wee-wee-wee all the way home."
 
-An infinite amount of mathematicians walked into a bar. The first ordered a pint, the second ordered a half pint, the third ordered a fourth pint, etc. The Bartender eventually walked up and gave them two pints and said: “You mathematicians don’t know your limits.”
+#. An infinite amount of mathematicians walked into a bar. The first ordered a pint, the second ordered a half pint, the third ordered a fourth pint, etc. The Bartender eventually walked up and gave them two pints and said: “You mathematicians don’t know your limits.”
 
-A tennis ball walks into a bar.
-The barman says, “Have you been served?”
+#. A tennis ball walks into a bar.
+   | The barman says, “Have you been served?”
 
-A lion walks into a bar and asks the bartender, “Do you have any jobs?”
- The bartender shakes his head sadly and says, “No, sorry. Why don’t you try the circus?”
- The lion replies, “Why would the circus need a bartender?”
-A man with authority walks into a bar.
- He orders everyone around.
+#. A lion walks into a bar and asks the bartender, “Do you have any jobs?”
+   | The bartender shakes his head sadly and says, “No, sorry. Why don’t you try the circus?”
+   | The lion replies, “Why would the circus need a bartender?”
+
+#. A man with authority walks into a bar.
+   | He orders everyone around.
+
 A snake slithers into a bar and asks for a beer. The bartender replies, “Sorry, we don’t serve your kind here.” “Why not?” asks the snake. “You can’t hold your liquor.”
 Two conspiracy theorists walk into a bar.
 You can’t tell me that was just a coincidence, man.
