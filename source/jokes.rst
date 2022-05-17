@@ -226,10 +226,10 @@ Math and Science
 #. | That show on irrigation was actually interesting.
    | I'll be dammed.
 #. Atheists don't solve exponential equations because they don't believe in higher powers.
-#. How do Astronomers have a party?
+#. | How do Astronomers have a party?
    | They planet!
 #. A biologist, a chemist, and a statistician are out hunting. The biologist shoots at a deer and misses 5ft to the left, the chemist takes a shot and misses 5ft to the right, the statistician yells "We got 'em!"
-#. What did the stormtrooper say when he went to church?
+#. | What did the stormtrooper say when he went to church?
    | Pew pew pew pew pew!
 #. I couldn't turn my homework in on time, because of my calcu-later.
 #. The psychiatrist said she wanted to hear about my problems. So I pulled out my math book.
@@ -398,9 +398,8 @@ Time
 #. Did you hear about the two guys that stole a calendar? They both got 6 months!
 #. | What does a clock do when it is hungry?
    | It goes back four seconds.
-237.
-The barman says, "We don't serve time travelers in here."
-The Doctor walks into a bar.
+#. | The barman says, "We don't serve time travelers in here."
+   | The Doctor walks into a bar.
 #. I stayed up all night, wondering where the sun went. Then it dawned on me.
 #. | I bought two watches. I needed a second hand.
    | Now I have more time on my hands.
@@ -423,7 +422,6 @@ People
    | He hands the server a hundred dollar bill, which the server pockets.
    | Lama says "Hey, where's my change?"
    | Server says "Change comes from within."
-#. Boris Spassky was once asked by a reporter, "Which do you prefer: chess or sex?". Spassky replied "It very much depends on the position".
 #. Jean-Paul Sartre is sitting at a French cafe, revising his draft of Being and Nothingness. He says to the waitress, "I'd like a cup of coffee, please, with no cream." The waitress replies, "I'm sorry, Monsieur, but we're out of cream. How about with no milk?"
 #. | Who does Polyphemus hate more than Odysseus?
    | Nobody!
@@ -455,7 +453,7 @@ People
 #. You feel stuck with your debt if you can't budge it.
 #. A lot of money is tainted. 'Taint yours and it taint mine.
 #. Once you've seen one shopping center, you've seen a mall.
-#. That lazy Red Kneck is a farmer outstanding in his field.
+#. That farmer is outstanding in his field.
 #. Police were called to a daycare center today where a three-year-old was resisting a rest.
 #. Did you hear about the guy whose whole left side was cut off? He's all right now.
 #. To write with a broken pencil is pointless.
